@@ -1,2 +1,2 @@
-# hello
+# zero glass competition
 zero glass competition
